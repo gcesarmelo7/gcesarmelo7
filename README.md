@@ -4,7 +4,7 @@ My name is Giovanni, healthcare professional and currently I found my passion in
 
 My interests are: 
 - Data science;
-- Data engineering;
+- Data analytics;
 - Machine learning;
 - Artificial Inteligence.
 
